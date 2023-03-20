@@ -1,0 +1,48 @@
+.try-form {
+  margin-top: 2em;
+  padding-bottom: 1em;
+  border: 4px solid #5bc0de;
+  border-radius: 10px 10px 10px 10px;
+  height: 75%;
+  background-color: #ffffff ;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.user-icon {
+  margin-top: -3.3em;
+  margin-bottom: 1em;
+  color: #5bc0de; 
+}
+
+.classi{
+  color: #5bc0de; 
+
+}
+
+.puzzle-icon {
+  margin-top: -2.3em;
+  margin-bottom: 1em;
+  color: #5bc0de; 
+}
+
+.counter-icon {
+  width: 100px !important;
+  color: #5bc0de; 
+}
+
+.homepage{
+  width: 400px !important;
+}
+
+.Navlink{
+  color: white !important;
+  font-size: 15px;
+}
+
+.modal-header-info{
+  background-color: #5bc0de; 
+  color: white;
+}
