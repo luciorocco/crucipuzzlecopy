@@ -1,5 +1,5 @@
 # Exam #5: "Crucipuzzle"
-## Student: s289276 INGLESE LUCIO ROCCO
+## Student:  INGLESE LUCIO ROCCO
 
 
 ## React Client Application Routes
